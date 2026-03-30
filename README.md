@@ -84,16 +84,13 @@ The project successfully answers the core business questions:
 ---
 
 ## 🖥️ **UI Dashboard**
-
-*(Note: Ensure your screenshots are named 1.png, 2.png, etc., and placed in the `SCREEN SHOT` folder in your repository)*
-
- ![Dashboard 1](./SCREEN%20SHOT/1.png)  ![Dashboard 2](./SCREEN%20SHOT/2.png)  ![Dashboard 3](./SCREEN%20SHOT/3.png) 
-
- ![Dashboard 4](./SCREEN%20SHOT/4.png)  ![Dashboard 5](./SCREEN%20SHOT/5.png)  ![Dashboard 6](./SCREEN%20SHOT/6.png) 
-
- ![Dashboard 7](./SCREEN%20SHOT/7.png)  ![Dashboard 8](./SCREEN%20SHOT/8.png)  ![Dashboard 9](./SCREEN%20SHOT/9.png) 
-
----
+| | | |
+|:---:|:---:|:---:|
+| ![1](./SCREENSHOTS/1.png) <br> **Photo 1** | ![2](./SCREENSHOTS/2.png) <br> **Photo 2** | ![3](./SCREENSHOTS/3.png) <br> **Photo 3** |
+| ![4](./SCREENSHOTS/4.png) <br> **Photo 4** | ![5](./SCREENSHOTS/5.png) <br> **Photo 5** | ![6](./SCREENSHOTS/6.png) <br> **Photo 6** |
+| ![7](./SCREENSHOTS/7.png) <br> **Photo 7** | ![8](./SCREENSHOTS/8.png) <br> **Photo 8** | ![9](./SCREENSHOTS/9.png) <br> **Photo 9** |
+| ![10](./SCREENSHOTS/10.png) <br> **Photo 10** | ![11](./SCREENSHOTS/11.png) <br> **Photo 11** | ![12](./SCREENSHOTS/12.png) <br> **Photo 12** |
+| ![13](./SCREENSHOTS/13.png) <br> **Photo 13** | ![14](./SCREENSHOTS/14.png) <br> **Photo 14** | |
 
 ## 📂 **Repository Structure Guide**
 
